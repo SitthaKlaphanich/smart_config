@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/smart_config/build/CMakeFiles/bootloader
+E:/smart_config/build/CMakeFiles/bootloader.rule
+E:/smart_config/build/CMakeFiles/bootloader-complete.rule
+E:/smart_config/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/smart_config/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/smart_config/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/smart_config/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/smart_config/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/smart_config/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/smart_config/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
